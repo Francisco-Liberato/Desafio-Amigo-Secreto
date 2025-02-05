@@ -1,7 +1,7 @@
 # Sorteie um amigo secreto
 <p>Projeto feito no curso "Alura Oracle One" para sortear um amigo secreto.<p>
 
-<p>Link do projeto no Vercel: https://desafio-amigo-secreto-sandy.vercel.app/<p>
+Link do projeto no Vercel: [Clique aqui](https://desafio-amigo-secreto-sandy.vercel.app/).
 
 ## Funcionalidades:
 <p>Adicione o nome de seus amigos que o site irá sortear aleatoriamente um dos nomes informados.<p>
